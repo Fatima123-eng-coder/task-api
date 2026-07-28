@@ -121,6 +121,10 @@ Example Response
 Run the following command to install dependencies:
 
 npm install
+
+## Swagger UI
+
+![Swagger Screenshot](swagger_screenshot.png)
 ## Author
 
 Fatima Saleem
