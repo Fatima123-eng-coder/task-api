@@ -34,4 +34,13 @@ Content-Type: application/json
 
 ###
 
+GET http://localhost:3000/tasks/999
+
+###
+
+POST http://localhost:3000/tasks
+Content-Type: application/json
+
+{}
+
 DELETE http://localhost:3000/tasks/1
