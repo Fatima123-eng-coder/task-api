@@ -116,7 +116,11 @@ Example Response
 |404|Not Found|
 
 ---
+## Installation
 
+Run the following command to install dependencies:
+
+npm install
 ## Author
 
 Fatima Saleem
