@@ -3,7 +3,7 @@
   "info": {
     "title": "Task API",
     "version": "1.0.0",
-    "description": "Week 2 CRUD API Assignment"
+  "description": "RESTful CRUD API built using Node.js and Express.js"
   },
   "servers": [
     {
